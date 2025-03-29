@@ -7,3 +7,5 @@ Sensors:
 - Airmar 200WX: wind speed, direction, air temp
 - Aandera CT 4319: ocean temperature and salinity
 - Aanderaa DCPS 5400: ocean u,v velocity
+
+More details on the sensors and their setup can be found here: https://polar-gliders-operations.github.io/sailbuoy/chapters/sensors/sensors.html
